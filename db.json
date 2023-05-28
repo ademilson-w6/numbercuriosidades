@@ -1,0 +1,70 @@
+{
+  "numbers": [
+    {
+      "id": 0,
+      "fact": "Fato sobre o número 0",
+      "mathCuriosity": "Curiosidade sobre o número 0",
+      "imagem": "/images/0.png"
+    },
+    {
+      "id": 1,
+      "fact": "1 é o número de luas orbitando a Terra",
+      "mathCuriosity": "1 é também o primeiro e segundo números na sequência de Fibonacci e é o primeiro número em muitas outras sequências matemáticas",
+      "imagem": "/images/1.png"
+    },
+    {
+      "id": 2,
+      "fact": "2 é o canal de televisão mais baixo nos Estados Unidos, Canadá, Argentina e México no qual os sinais de televisão são transmitidos",
+      "mathCuriosity": "2 é o menor e o primeiro número primo, e o único par (por isso é às vezes chamado de 'o primo mais ímpar')",
+      "imagem": "/images/2.png"
+    },
+    {
+      "id": 3,
+      "fact": "3 é o número de sets necessários para vencer a partida inteira no vôlei",
+      "mathCuriosity": "3 é o segundo número triangular e é o único número triangular primo",
+      "imagem": "/images/3.png"
+    },
+    {
+      "id": 4,
+      "fact": "4 é o número de cordas de um violino, violoncelo, contrabaixo, cuatro e cavaquinho, e o número de pares de cordas de um bandolim.",
+      "mathCuriosity": "4 é o número máximo de dimensões de uma álgebra de divisão real (os quaternions), por um teorema de Ferdinand Georg Frobenius",
+      "imagem": "/images/4.png"
+    }, 
+    {
+      "id":5,
+      "fact": "5 é o número de juízes na Suprema Corte dos Estados Unidos necessários para proferir uma decisão por maioria",
+      "mathCuriosity": "5 é também o número de sólidos platônicos: tetraedro, cubo, octaedro, dodecaedro e icosaedro",
+      "imagem": "/images/5.png"
+    },
+    {
+      "id": 6,
+      "fact": "6 é a duração padrão (ano) de um mandato de senador dos Estados Unidos",
+      "mathCuriosity": "6 é o único número que é a soma e o produto de três números positivos consecutivos Ex: (1 + 2 + 3 = 6) e (1 x 2 x 3 = 6)",
+      "imagem": "/images/6.png"
+    },
+    {
+      "id": 7,
+      "fact": "7 é o número de segundos que a montanha-russa 'Superman: Escape from Krypton' leva para ir de 0 a 160 quilômetros por hora",
+      "mathCuriosity": "O número 7 é o menor número de lados de um polígono regular que não pode ser construído usando apenas uma régua e um compasso. Essa afirmação é conhecida como o 'problema da quadratura do círculo'. Em termos mais técnicos, a construção com régua e compasso permite a realização de operações como traçar linhas retas, desenhar circunferências e encontrar interseções de linhas e circunferências. No entanto, a construção do polígono regular de 7 lados requer a construção da raiz quadrada do número 7, o que não é possível apenas com régua e compasso, pois não é um número construtível. Esse resultado foi provado matematicamente no século XIX por Pierre Wantzel. Ele demonstrou que apenas os polígonos de 3, 4, 5, 6, 8, 10, 12, 16, 20, 32 e assim por diante podem ser construídos com régua e compasso.",
+      "imagem": "/images/7.png"
+    },
+    {
+      "id": 8,
+      "fact": "8 é o número de bits em um byte",
+      "mathCuriosity": "8 é a base do sistema numérico octal, que é usado principalmente com computadores.",
+      "imagem": "/images/8.png"
+    },
+    {
+      "id": 9,
+      "fact": "9 é o número de círculos do Inferno na Divina Comédia de Dante",
+      "mathCuriosity": "9 é o maior número de um dígito no sistema decimal",
+      "imagem": "/images/9.png"
+    }, 
+    {
+      "id": 10,
+      "fact": "10 é o número de Províncias no Canadá",
+      "mathCuriosity": "10 é o número de quantidade de algarismos diferentes de qualquer número, por maior que ele seja",
+      "imagem": "/images/10.png"
+    }
+  ]
+}
