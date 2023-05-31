@@ -6,6 +6,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+npm install checks the package.json file, downloads the specified dependencies, and installs them locally in your project's node_modules directory. 
+These dependencies can be third-party libraries, frameworks, or tools that your project requires to function properly.
+
+### `npx json-server --watch db.json --port 3001`
+
+The command "json-server --watch db.json --port 3001" starts a JSON server locally using the json-server package in Node.js. 
+The JSON server is used to create a mock REST API based on a provided JSON file, in this case the "db.json" file.
+
+### `Set-ExecutionPolicy Bypass -Scope Process`
+
+The "Set-ExecutionPolicy Bypass -Scope Process" command is a command used in Windows PowerShell to change the script execution policy on the system. 
+PowerShell execution policy is a security measure that determines which scripts can run on your computer.
+
 ### `npm start`
 
 Runs the app in the development mode.\
