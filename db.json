@@ -2,8 +2,8 @@
   "numbers": [
     {
       "id": 0,
-      "fact": "Fato sobre o número 0",
-      "mathCuriosity": "Curiosidade sobre o número 0",
+      "fact": "Nenhum número pode ser dividido por 0",
+      "mathCuriosity": "Assim como nos algarismos romanos, as numerações grega, egípcia, hebraica, entre outras, não possuíam um símbolo para representar o zero.",
       "imagem": "/images/0.png"
     },
     {
@@ -45,7 +45,7 @@
     {
       "id": 7,
       "fact": "7 é o número de segundos que a montanha-russa 'Superman: Escape from Krypton' leva para ir de 0 a 160 quilômetros por hora",
-      "mathCuriosity": "O número 7 é o menor número de lados de um polígono regular que não pode ser construído usando apenas uma régua e um compasso. Essa afirmação é conhecida como o 'problema da quadratura do círculo'. Em termos mais técnicos, a construção com régua e compasso permite a realização de operações como traçar linhas retas, desenhar circunferências e encontrar interseções de linhas e circunferências. No entanto, a construção do polígono regular de 7 lados requer a construção da raiz quadrada do número 7, o que não é possível apenas com régua e compasso, pois não é um número construtível. Esse resultado foi provado matematicamente no século XIX por Pierre Wantzel. Ele demonstrou que apenas os polígonos de 3, 4, 5, 6, 8, 10, 12, 16, 20, 32 e assim por diante podem ser construídos com régua e compasso.",
+      "mathCuriosity": "O número 7 é o menor número de lados de um polígono regular que não pode ser construído usando apenas uma régua e um compasso.",
       "imagem": "/images/7.png"
     },
     {
